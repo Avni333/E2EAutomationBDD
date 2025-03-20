@@ -4,7 +4,11 @@ Objective: To automate basic but critical functionality of E-commerce webpage us
 Login Page -> Product Page -> Cart Page -> Checkout Page
 
 Tools Used : VS Code
+
 Framework: Cypress,Mocha with Chai library
+
 Environment : node.js
+
 Programming language : Javascript
-All the components : screenshot, video, HTML report generator, xpath plugins
+
+Other components : screenshot, video, HTML report generator, xpath plugins
