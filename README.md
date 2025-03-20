@@ -12,3 +12,5 @@ Environment : node.js
 Programming language : Javascript
 
 Other components : screenshot, video, HTML report generator, xpath plugins
+
+Page objects file location : cypress/support/PageObjects
